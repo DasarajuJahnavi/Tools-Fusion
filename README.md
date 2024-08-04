@@ -8,6 +8,7 @@ Resizable: The window can be resized both horizontally and vertically.
 Background Image: A background image is set to cover the entire window, providing an aesthetic appearance.
 Layout: The main window is divided into grids to organize the various buttons and tools.
 
+
 TOOLS
 The application includes several practical tools, each with its own dedicated button and functionality:
 Video to Audio Converter:
